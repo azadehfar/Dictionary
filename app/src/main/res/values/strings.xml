@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="English">English</string>
+    <string name="German">German</string>
+    <string name="Spanish">Spanish</string>
+    <string name="French">French</string>
+
+</resources>
